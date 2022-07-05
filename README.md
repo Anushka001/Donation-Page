@@ -1,3 +1,4 @@
 ## Donation-Page
+This webpage is made as a part of the Web Development Internship at The Sparks Foundation
 
-Access the webpage here: https://anushka001.github.io/Donation-Page/
+You can access the webpage here: https://anushka001.github.io/Donation-Page/
